@@ -1,0 +1,6 @@
+/build/
+/work/
+.tomcatplugin
+/WebContent/WEB-INF/classes/
+/log/
+/userCode/
